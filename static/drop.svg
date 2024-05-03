@@ -1,0 +1,18 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="98.978" height="84.898" viewBox="0 0 98.978 84.898">
+  <g id="add-audio-illustration" transform="translate(1.5 1.5)">
+    <path id="Path_130776" data-name="Path 130776" d="M-458.434,103.262c.153-.022.3-53.684.457-53.7a9.544,9.544,0,0,1,10.384,8.094l5.925,39.9a9.542,9.542,0,0,1-8.038,10.84l-47.251,7.016a9.544,9.544,0,0,1-10.832-7.977c0-.02-.006-1.04-.009-1.061" transform="translate(539.041 -32.119)" fill="#d8d8ff"/>
+    <path id="Path_130777" data-name="Path 130777" d="M-466.754,106.565h-47.769a11.055,11.055,0,0,1-11.043-11.042V70.269a1.5,1.5,0,0,1,1.5-1.5,1.5,1.5,0,0,1,1.5,1.5V95.523a8.052,8.052,0,0,0,8.043,8.042h47.769a8.052,8.052,0,0,0,8.042-8.042V55.182a8.052,8.052,0,0,0-8.042-8.043h-34.24a1.5,1.5,0,0,1-1.5-1.5,1.5,1.5,0,0,1,1.5-1.5h34.24a11.055,11.055,0,0,1,11.042,11.043V95.523a11.054,11.054,0,0,1-11.042,11.042Z" transform="translate(539.305 -32.119)" fill="#242424"/>
+    <circle id="Ellipse_25323" data-name="Ellipse 25323" cx="16.429" cy="16.429" r="16.429" fill="none" stroke="#5058f5" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 8"/>
+    <g id="Group_292522" data-name="Group 292522" transform="translate(9.424 9.423)">
+      <path id="Path_130780" data-name="Path 130780" d="M-521.852,48.743h-12.321a.847.847,0,0,1-.847-.847.847.847,0,0,1,.847-.847h12.321a.847.847,0,0,1,.847.847A.847.847,0,0,1-521.852,48.743Z" transform="translate(535.02 -40.889)" fill="#5c5ce0" stroke="#5c5ce0" stroke-width="1"/>
+      <path id="Path_130781" data-name="Path 130781" d="M-523.265,50.154a.847.847,0,0,1-.847-.847V36.986a.847.847,0,0,1,.847-.847.847.847,0,0,1,.847.847V49.307A.847.847,0,0,1-523.265,50.154Z" transform="translate(530.271 -36.139)" fill="#5c5ce0" stroke="#5c5ce0" stroke-width="1"/>
+    </g>
+    <g id="Group_296241" data-name="Group 296241" transform="translate(32.364 25.233)">
+      <line id="Line_84879" data-name="Line 84879" y2="36" transform="translate(16.301)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_84880" data-name="Line 84880" y2="23" transform="translate(24.451 6.5)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_84883" data-name="Line 84883" y2="23" transform="translate(8.15 6.5)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_84881" data-name="Line 84881" y2="11" transform="translate(32.602 12.5)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_84882" data-name="Line 84882" y2="11" transform="translate(0 12.5)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
